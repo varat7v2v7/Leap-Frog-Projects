@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="tutorial_listing">
+        <item>LinearLayout Example</item>
+        <item>RelativeLayout Example</item>
+        <item>Custom ListView Example</item>
+        <item>Style Example</item>
+        <item>Login Page</item>
+        <item>customFontExample</item>
+    </array>
+</resources>
